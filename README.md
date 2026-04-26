@@ -27,7 +27,6 @@ It includes:
 ## 🧠 Tech Stack
 
 # Frontend
-
 - React
 - Monaco Editor
 - Socket.IO Client
@@ -35,8 +34,7 @@ It includes:
 
 ---
 
-#Backend 
-
+# Backend 
 - Node.js
 - Express.js
 - Socket.IO
@@ -78,11 +76,13 @@ nova-code/
 
 
 ## ⚙️ Installation
-```Bash
 1. Clone the project
+```Bash
 git clone https://github.com/yourusername/nova-code.git
 cd nova-code
+```
 2. Setup backend
+```Bash
 cd server
 npm install
 npm start
@@ -91,7 +91,9 @@ npm start
 Backend runs on:
 ```Bash
 http://localhost:4000
+```
 3. Setup frontend
+```Bash
 cd client
 npm install
 npm start
@@ -108,26 +110,15 @@ http://localhost:3000
 
 ## 💻 Features
 
----
-
 # 📁 File Explorer
-
 - Browse and manage project files in a structured tree view.
-
----
 
 # 🗂️ Multi-Tab Editor
 
 - Open and switch between multiple files seamlessly.
-
----
-
 # ✍️ Code Editor
 
 - High-performance in-browser code editing with syntax highlighting and IntelliSense support.
-
----
-
 # 💻 Terminal
 
 - Real-time system terminal powered by WebSockets and native shell access.
@@ -143,7 +134,7 @@ http://localhost:3000
 
 # Basic version control operations:
 
- - Status
+- Status
 - Commit
 - Repository tracking
 
