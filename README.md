@@ -1,4 +1,4 @@
-📘 NOVA Code
+## 📘 NOVA Code
 
 🚀 A powerful browser-based cloud IDE for writing, running, and managing code directly in the browser.
 
@@ -188,15 +188,13 @@ Planned upgrades:
 
 ---
 
-🧪 Example Code
+# 🧪 Example Code
 
 console.log("Welcome to NOVA Code 🚀");
 
-
 ---
 
-
-## 👨‍💻 Project Identity
+# 👨‍💻 Project Identity
 
 NOVA Code is designed as an independent cloud development environment focused on speed, flexibility, and extensibility.
 
