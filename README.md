@@ -128,10 +128,7 @@ http://localhost:3000
 
 ## 🔧 Git Integration
 
----
-
-# Basic version control operations:
-
+Basic version control operations:
 - Status
 - Commit
 - Repository tracking
@@ -141,12 +138,13 @@ http://localhost:3000
 
 
 ## 🧩 Extensions System
-
 Lightweight plugin architecture for adding custom functionality.
+
 
 ---
 
-# ⌨️ Keyboard Shortcuts
+
+## ⌨️ Keyboard Shortcuts
 - Shortcut	Action
 - Ctrl + S	Save file
 - Ctrl + P	Open command palette
@@ -157,10 +155,7 @@ Lightweight plugin architecture for adding custom functionality.
 
 ## 🌐 Terminal Engine
 
----
-
-# The terminal is powered by:
-
+The terminal is powered by:
 - WebSockets (Socket.IO)
 - Native system shell (bash / powershell via node-pty)
 
@@ -169,6 +164,7 @@ Lightweight plugin architecture for adding custom functionality.
 
 
 ## 🔐 Security Notes
+
 - No authentication included (development version)
 - Terminal executes on host machine (not sandboxed)
 - File system access limited to workspace directory
@@ -181,10 +177,7 @@ Lightweight plugin architecture for adding custom functionality.
 
 ## 🚀 Future Enhancements
 
----
-
-# Planned upgrades:
-
+Planned upgrades:
 - 👥 Real-time collaboration (multi-user editing)
 - 🐳 Containerized execution environments per user
 - 🤖 AI-powered coding assistant
@@ -192,15 +185,17 @@ Lightweight plugin architecture for adding custom functionality.
 - 📦 Extension marketplace
 - 🔐 Authentication & user management system
 
+
 ---
 
-# 🧪 Example Code
-
+🧪 Example Code
 console.log("Welcome to NOVA Code 🚀");
 
+
 ---
 
-# 👨‍💻 Project Identity
+
+## 👨‍💻 Project Identity
 
 NOVA Code is designed as an independent cloud development environment focused on speed, flexibility, and extensibility.
 
