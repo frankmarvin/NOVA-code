@@ -110,19 +110,17 @@ http://localhost:3000
 
 ## 💻 Features
 
-# 📁 File Explorer
+📁 File Explorer
 - Browse and manage project files in a structured tree view.
 
-# 🗂️ Multi-Tab Editor
-
+🗂️ Multi-Tab Editor
 - Open and switch between multiple files seamlessly.
-# ✍️ Code Editor
 
+✍️ Code Editor
 - High-performance in-browser code editing with syntax highlighting and IntelliSense support.
-# 💻 Terminal
 
+💻 Terminal
 - Real-time system terminal powered by WebSockets and native shell access.
-
 
 
 ---
